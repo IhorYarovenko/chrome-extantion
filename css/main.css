@@ -1,0 +1,93 @@
+#swagger-ui {
+  /* background-color: rgb(44, 41, 41); */
+}
+
+.swagger-ui .topbar {
+  background-color: #7b7b7b;
+  padding: 10px 0;
+}
+
+.swagger-ui .info .title small {
+  background: #2196f3!important;
+}
+
+.swagger-ui .info .title small.version-stamp {
+  background-color: #89bf04!important;
+}
+
+.swagger-ui .info p {
+  font-weight: 600;
+  font-size: medium;
+  color: #49cc90!important;
+}
+
+.swagger-ui .scheme-container {
+  padding: 20px 0!important;
+}
+
+.swagger-ui .opblock.opblock-post .opblock-summary {
+  background: #49cc90;
+}
+.swagger-ui .opblock.opblock-get .opblock-summary {
+  background: #61affe;
+}
+
+.swagger-ui .opblock.opblock-patch .opblock-summary {
+  background: #50e3c2;
+}
+
+.swagger-ui .opblock.opblock-delete .opblock-summary {
+  background: #f93e3e;
+}
+
+.swagger-ui .opblock .opblock-summary-path {
+  max-width: calc(100% - 20px)!important;
+}
+
+.swagger-ui .opblock {
+  border-radius: 10px!important;
+}
+.swagger-ui .opblock.opblock-patch .opblock-summary {
+  border-radius: 8px!important;
+}
+.swagger-ui .opblock.opblock-get .opblock-summary {
+  border-radius: 8px!important;
+}
+.swagger-ui .opblock.opblock-post .opblock-summary {
+  border-radius: 8px!important;
+}
+.swagger-ui .opblock.opblock-delete .opblock-summary {
+  border-radius: 8px!important; }
+
+/* .swagger-ui .opblock.opblock-get {
+  background-color: #70b0ec!important;
+  color: white;
+} */
+
+/* .swagger-ui .opblock.opblock-delete {
+  background-color: #f93e3e!important;
+  color: white;
+} */
+
+/* .swagger-ui table thead tr td, .swagger-ui table thead tr th {
+  color: white!important;
+}
+
+.swagger-ui .parameter__type {
+  color: white!important;
+}
+
+.swagger-ui .parameter__extension, .swagger-ui .parameter__in {
+  color: black!important;
+}
+
+.swagger-ui .response-col_status {
+  color: white!important;
+}
+.swagger-ui .parameter__name {
+  color: white!important;
+}
+
+.swagger-ui .response-col_links {
+  color: white!important;
+} */

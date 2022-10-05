@@ -6,9 +6,10 @@
   "content_scripts": [
     {
       "matches": [
-        "http://localhost:3000/docs"
+        "http://localhost:3000/docs/*",
+        "https://*/docs/*"
       ],
-      "css": ["main.css"]
+      "css": ["./css/main.css"]
     }
   ]
 }
