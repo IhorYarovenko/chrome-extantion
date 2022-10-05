@@ -57,7 +57,12 @@
   border-radius: 8px!important;
 }
 .swagger-ui .opblock.opblock-delete .opblock-summary {
-  border-radius: 8px!important; }
+  border-radius: 8px!important;
+}
+
+.swagger-ui svg:not(:root) {
+  fill: white;
+}
 
 /* .swagger-ui .opblock.opblock-get {
   background-color: #70b0ec!important;
